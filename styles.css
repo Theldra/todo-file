@@ -1,0 +1,20 @@
+.td{
+    text-align: center;
+    font-style: italic;
+    font-family:  Georgia;
+    padding: 15px;
+  
+}
+#to-do{
+    color: steelblue;
+    border-radius: 15px;
+    border: none;
+    padding: 10px;
+}  
+
+nav{
+    background-color: peachpuff;
+    border-radius: 20px;
+    background-image: url(./images/newbg.jpg);
+    
+}
